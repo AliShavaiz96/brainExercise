@@ -1,7 +1,9 @@
 ### Brain Exercise
 
 ### Description:
-    The task is to find the monthly payment for the whole year according to given ammount of money and subtract that monthly payment from the net ammount and return the remaining ammount of money to the given address.
+
+The task is to find the monthly payment for the whole year according to given ammount of money and subtract that monthly payment from the net ammount and return the remaining ammount of money to the given address.
+
 ### Installation:
     [alt text](https://www.python.org/downloads/release/python-3812/ "Install Python Python 3.8.10
 ")
